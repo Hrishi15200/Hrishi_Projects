@@ -1,0 +1,24 @@
+# StudoHelp – AI-Powered Academic Chatbot
+
+## 📚 Project Overview
+
+**StudoHelp** is a chatbot prototype that helps university students access academic material like question papers, notes, and PDFs by semester and subject. It was designed as a pilot for students of **Savitribai Phule Pune University**.
+
+## 🚀 Demo / Live Access
+https://studohelp.zapier.app
+
+## 🧠 Tech Stack & Tools
+- No-Code Interface: Zapier Interfaces
+- AI: OpenAI (GPT 3.5)
+- Integration: Google Sheets + GPT Prompting
+
+## 💡 Key Features
+- Semester-wise academic resource search
+- Course-specific content filtering
+- Custom AI prompts for content lookup
+
+## 📈 Outcome
+Built to reduce time spent searching for academic content and streamline student productivity.
+
+---
+
