@@ -1,0 +1,74 @@
+# 🍔 McDonald's India Portfolio Dashboard – Power BI Project
+
+This project showcases a Power BI dashboard simulating sales analysis for **McDonald's India**, built using fictional but realistic data. It was developed as part of a hands-on learning experience after attending a **Power BI and DAX workshop by WsCubeTech**.
+
+---
+
+## 📊 Project Highlights
+
+- 📦 **Total Products Sold**
+- 💰 **Total Revenue (₹)**
+- 🧮 **AOV (Average Order Value)**
+- 🔥 **Top-Selling Products**
+- 📂 **Sales by Product Category**
+
+---
+
+## 🧠 Key Concepts Used
+
+- **Data Modeling**:
+  - Two related tables: `Products` and `Orders`
+  - Relationship based on `ProductID`
+- **DAX Measures**:
+  - `Total Sales`
+  - `Total Quantity`
+  - `AOV` (Average Order Value)
+  - Category- and Product-level aggregations
+- **Power BI Visualizations**:
+  - KPI Cards
+  - Bar Charts for product/category sales
+  - Clean layout and formatting
+- **Localization**:
+  - Data modeled on Indian prices, product names, and store locations
+
+---
+
+## 🗂️ Files Included
+
+- `McDonalds_India_Products.csv` – Product catalog with categories, sizes, and prices
+- `McDonalds_India_Orders.csv` – Simulated sales transactions over 3 months
+- `McDonalds_India_Dashboard.pbix` – Power BI dashboard file *(add after export)*
+
+---
+
+## 📌 How to Use
+
+1. Download all files from this repository.
+2. Open the `.pbix` file using **Power BI Desktop**.
+3. Explore the dashboard, DAX measures, and relationships.
+4. Modify visuals or measures to experiment with different insights.
+
+---
+
+## 🎓 Learning Outcome
+
+This project helped reinforce:
+- Practical **DAX** skills
+- Power BI **visual design**
+- Real-world BI use cases in a localized Indian context
+- Effective storytelling with **data**
+
+---
+
+## 👨‍🏫 Inspired By
+
+Workshop on **DAX & Power BI** by [WsCubeTech](https://www.wscubetech.com/)  
+*(Not affiliated — used for learning purposes only)*
+
+---
+
+## 📬 Feedback
+
+Feel free to fork, open issues, or suggest improvements. Contributions are welcome!
+
+---
