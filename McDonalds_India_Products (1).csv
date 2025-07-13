@@ -1,0 +1,24 @@
+ProductID,ProductName,Category,Size,PriceINR
+M101,McAloo Tikki Burger,Burger,Regular,59
+M102,McVeggie Burger,Burger,Regular,139
+M103,McChicken Burger,Burger,Regular,149
+M104,McSpicy Paneer Burger,Burger,Regular,169
+M105,McSpicy Chicken Burger,Burger,Regular,179
+M106,Cheese Lava American Veg Burger,Burger,Regular,159
+M107,Cheese Lava American Chicken Burger,Burger,Regular,169
+M201,McAloo Tikki Combo,Meal,Medium,179
+M202,McVeggie Combo,Meal,Medium,239
+M203,McSpicy Paneer Combo,Meal,Medium,289
+M204,McChicken Combo,Meal,Medium,259
+M205,McSpicy Chicken Combo,Meal,Medium,289
+M301,Fries - Small,Fries,Small,79
+M302,Fries - Medium,Fries,Medium,99
+M303,Fries - Large,Fries,Large,119
+M304,Mexican Cheesy Fries,Fries,Regular,139
+M401,Coca-Cola,Beverage,Medium,79
+M402,Sprite,Beverage,Medium,79
+M403,Cold Coffee,Beverage,Regular,119
+M404,McFloat,Beverage,Regular,99
+M501,Soft Serve (Vanilla Cone),Dessert,Single,29
+M502,McFlurry Oreo,Dessert,Regular,109
+M503,Soft Serve Hot Fudge,Dessert,Regular,89
