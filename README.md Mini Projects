@@ -1,0 +1,121 @@
+📊 Mini Data Analytics Case Studies
+This repository contains 4 mini case studies I worked on to strengthen my Excel and SQL skills. Each project is based on realistic business scenarios and focuses on turning raw datasets into actionable insights.
+
+📂 Case Studies Overview
+Excel Case Studies
+1️⃣ Retail Sales Performance
+Scenario:
+A small retail store wants to understand sales trends, top-selling categories, and regional performance.
+
+Key Insights:
+
+Monthly revenue trends
+
+Top-selling categories by revenue
+
+Highest sales region
+
+Average order value
+
+Skills Used:
+
+Pivot Tables
+
+SUMIF, AVERAGE formulas
+
+Data cleaning
+
+Conditional formatting
+
+2️⃣ Online Course Platform
+Scenario:
+An online learning platform needs to track enrollments, revenue, and course popularity.
+
+Key Insights:
+
+Total revenue from paid enrollments
+
+Most popular course category
+
+Enrollments per course
+
+Skills Used:
+
+COUNTIF, SUMIF formulas
+
+Data grouping
+
+Category-wise analysis
+
+3️⃣ Employee Attendance Tracker
+Scenario:
+A company wants to track attendance patterns, late arrivals, and leaves.
+
+Key Insights:
+
+Attendance percentage per employee
+
+Department with most late arrivals
+
+Average check-in times
+
+Skills Used:
+
+IF formulas for attendance status
+
+Time calculations in Excel
+
+Aggregation & formatting
+
+SQL Case Study
+4️⃣ E-Commerce Order Tracker
+Scenario:
+As a data analyst, your task is to track sales performance, product popularity, and regional trends using a single SQL table (Orders).
+
+Dataset Columns:
+OrderID, CustomerName, ProductName, ProductCategory, Quantity, UnitPrice, OrderDate, Region, PaymentStatus
+
+SQL Tasks:
+
+Find total revenue from paid orders
+
+Count orders per product category
+
+Identify top-selling product by quantity sold
+
+Find region with highest total sales
+
+Calculate average order value for paid orders
+
+List customers who bought more than 2 items in a single order
+
+Find total revenue per product category
+
+Show orders sorted by highest revenue
+
+Skills Used:
+
+SUM(), COUNT(), AVG()
+
+GROUP BY, ORDER BY
+
+Filtering with WHERE
+
+Basic business metrics with SQL
+
+📎 Files Included
+Retail_Sales_Performance.xlsx – Excel analysis file
+
+Online_Course_Platform.xlsx – Excel analysis file
+
+Employee_Attendance_Tracker.xlsx – Excel analysis file
+
+ecommerce_orders.sql – SQL dataset & queries
+
+🔍 Key Learnings
+Asking the right business questions before analysis
+
+Translating questions into Excel formulas and SQL queries
+
+Performing both descriptive analysis and basic business intelligence
+
